@@ -1,3 +1,3 @@
 def piro():
-    print("필수")
+    print("수정")
     return 1
