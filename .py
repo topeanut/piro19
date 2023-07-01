@@ -1,3 +1,3 @@
 def piro():
-    print("수정cart")
+    print("logout")
     return 1
